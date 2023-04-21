@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Andrew\Desktop\DAM\PcomandosP\Producto2PCP\Producto2PCP\main.c(125,13): warning C4098: 'mostrar_configuracion_red': función 'void' que devuelve un valor
+  Producto2PCP.vcxproj -> C:\Users\Andrew\Desktop\DAM\PcomandosP\Producto2PCP\x64\Debug\Producto2PCP.exe
